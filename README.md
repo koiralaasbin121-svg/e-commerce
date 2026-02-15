@@ -1,5 +1,10 @@
 # ❄️ Polar Wears - Luxury Winter Ecommerce
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
 ![Polar Wears](https://images.unsplash.com/photo-1510936111840-65e151ad71bb?q=80&w=2000&auto=format&fit=crop)
 
 A full-stack, responsive ecommerce platform for luxury winter streetwear. Built with a modern React frontend and a robust Node.js/Express backend.
@@ -20,7 +25,7 @@ A full-stack, responsive ecommerce platform for luxury winter streetwear. Built 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Vite, Framer Motion, Lucide React, Axios
+- **Frontend:** **React.js (v18)**, Vite, Framer Motion, Lucide React, Axios
 - **Backend:** Node.js, Express.js
 - **Database:** Local JSON (Development) / MongoDB (Production ready)
 - **Styling:** CSS3, Responsive Design variables
